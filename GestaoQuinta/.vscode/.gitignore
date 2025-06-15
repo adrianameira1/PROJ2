@@ -1,0 +1,58 @@
+# Maven
+/target/
+!.mvn/wrapper/maven-wrapper.jar
+.mvn/timing.properties
+.mvn/wrapper/maven-wrapper.properties
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+
+# Logs
+*.log
+
+# IntelliJ
+.idea/
+*.iml
+*.ipr
+*.iws
+out/
+
+# VS Code
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Build system
+/build/
+.gradle/
+.classpath
+.project
+.settings/
+
+# Environment & IDE config
+.env
+*.swp
+
+# Jupyter, backup or temp files
+*~
+*.tmp
+*.bak
+
+# Java cache
+*.class
+*.jar
+*.war
+*.ear
+
+# Generated files
+*.db
+*.sqlite
+*.h2.db
+
+# Frontend if applicable (React/Vite/etc.)
+node_modules/
+dist/
