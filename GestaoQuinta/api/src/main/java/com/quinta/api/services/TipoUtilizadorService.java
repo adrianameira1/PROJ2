@@ -1,7 +1,7 @@
-package com.example.projetoii_dados.services;
+package com.quinta.api.services;
 
-import com.example.core.models.Tipoutilizador;
-import com.example.core.repositories.TipoUtilizadorRepository;
+import com.quinta.core.models.Tipoutilizador;
+import com.quinta.core.repositories.TipoUtilizadorRepository;
 import org.springframework.stereotype.Service;
 
 import java.util.List;

@@ -1,8 +1,8 @@
-package com.example.projetoii_dados.controllers;
+package com.quinta.api.controllers;
 
-import com.example.core.models.Tipoevento;
-import com.example.projetoii_dados.DTOs.TipoEventoDTO;
-import com.example.projetoii_dados.services.TipoEventoService;
+import com.quinta.core.models.Tipoevento;
+import com.quinta.api.DTOs.TipoEventoDTO;
+import com.quinta.api.services.TipoEventoService;
 import io.swagger.v3.oas.annotations.tags.Tag;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;

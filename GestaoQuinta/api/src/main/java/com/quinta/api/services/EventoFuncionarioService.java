@@ -1,8 +1,8 @@
-package com.example.projetoii_dados.services;
+package com.quinta.api.services;
 
-import com.example.core.models.Eventofuncionario;
-import com.example.core.models.EventofuncionarioId;
-import com.example.core.repositories.EventoFuncionarioRepository;
+import com.quinta.core.models.Eventofuncionario;
+import com.quinta.core.models.EventofuncionarioId;
+import com.quinta.core.repositories.EventoFuncionarioRepository;
 import org.springframework.stereotype.Service;
 
 import java.util.List;

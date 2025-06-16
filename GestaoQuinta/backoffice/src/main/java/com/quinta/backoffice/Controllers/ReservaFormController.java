@@ -1,9 +1,9 @@
-package com.backoffice.Controllers;
+package com.quinta.backoffice.Controllers;
 
-import com.backoffice.Service.ReservaService;
-import com.backoffice.model.ReservaRow;
-import com.example.core.models.Cliente;
-import com.example.core.models.Reserva;
+import com.quinta.backoffice.Service.ReservaService;
+import com.quinta.backoffice.model.ReservaRow;
+import com.quinta.core.models.Cliente;
+import com.quinta.core.models.Reserva;
 import jakarta.annotation.PostConstruct;
 import javafx.fxml.FXML;
 import javafx.scene.control.*;

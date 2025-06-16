@@ -1,7 +1,7 @@
-package com.example.projetoii_dados.services;
+package com.quinta.api.services;
 
-import com.example.core.models.Recibo;
-import com.example.core.repositories.ReciboRepository;
+import com.quinta.core.models.Recibo;
+import com.quinta.core.repositories.ReciboRepository;
 import org.springframework.stereotype.Service;
 
 import java.util.List;

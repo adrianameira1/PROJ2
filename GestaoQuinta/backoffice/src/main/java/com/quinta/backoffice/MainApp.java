@@ -1,5 +1,5 @@
-package com.backoffice;
-import com.backoffice.Controllers.MainViewController;
+package com.quinta.backoffice;
+import com.quinta.backoffice.Controllers.MainViewController;
 import javafx.application.Application;
 import javafx.fxml.FXMLLoader;
 import javafx.scene.Scene;

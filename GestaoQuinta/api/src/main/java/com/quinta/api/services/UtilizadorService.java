@@ -1,7 +1,7 @@
-package com.example.projetoii_dados.services;
+package com.quinta.api.services;
 
-import com.example.core.models.Utilizador;
-import com.example.core.repositories.UtilizadorRepository;
+import com.quinta.core.models.Utilizador;
+import com.quinta.core.repositories.UtilizadorRepository;
 import org.springframework.stereotype.Service;
 
 import java.util.List;

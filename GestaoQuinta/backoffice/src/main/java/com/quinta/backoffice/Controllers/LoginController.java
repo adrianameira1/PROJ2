@@ -1,8 +1,8 @@
-package com.backoffice.Controllers;
+package com.quinta.backoffice.Controllers;
 
 import java.util.List;
-import com.backoffice.model.Utilizador;
-import com.backoffice.Service.ApiService;
+import com.quinta.backoffice.model.Utilizador;
+import com.quinta.backoffice.Service.ApiService;
 
 import javafx.fxml.FXML;
 import javafx.fxml.FXMLLoader;

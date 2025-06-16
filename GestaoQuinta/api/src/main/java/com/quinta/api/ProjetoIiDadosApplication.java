@@ -1,4 +1,4 @@
-package com.example.projetoii_dados;
+package com.quinta.api;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

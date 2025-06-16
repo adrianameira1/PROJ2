@@ -1,6 +1,6 @@
-package com.example.core.repositories;
+package com.quinta.core.repositories;
 
-import com.example.core.models.Fornecedor;
+import com.quinta.core.models.Fornecedor;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 

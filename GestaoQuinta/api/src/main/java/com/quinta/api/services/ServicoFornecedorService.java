@@ -1,8 +1,8 @@
-package com.example.projetoii_dados.services;
+package com.quinta.api.services;
 
-import com.example.core.models.ServicoFornecedor;
-import com.example.core.models.ServicoFornecedorId;
-import com.example.core.repositories.ServicoFornecedorRepository;
+import com.quinta.core.models.ServicoFornecedor;
+import com.quinta.core.models.ServicoFornecedorId;
+import com.quinta.core.repositories.ServicoFornecedorRepository;
 import org.springframework.stereotype.Service;
 
 import java.util.List;

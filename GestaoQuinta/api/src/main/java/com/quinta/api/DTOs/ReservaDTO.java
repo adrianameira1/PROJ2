@@ -1,5 +1,4 @@
-package com.example.projetoii_dados.DTOs;
-
+package com.quinta.api.Dtos;
 import java.time.LocalDate;
 
 public class ReservaDTO {

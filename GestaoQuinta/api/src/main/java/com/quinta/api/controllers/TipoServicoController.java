@@ -1,8 +1,8 @@
-package com.example.projetoii_dados.controllers;
+package com.quinta.api.controllers;
 
-import com.example.core.models.Tiposervico;
-import com.example.projetoii_dados.DTOs.TipoServicoDTO;
-import com.example.projetoii_dados.services.TipoServicoService;
+import com.quinta.core.models.Tiposervico;
+import com.quinta.api.DTOs.TipoServicoDTO;
+import com.quinta.api.services.TipoServicoService;
 import io.swagger.v3.oas.annotations.tags.Tag;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;

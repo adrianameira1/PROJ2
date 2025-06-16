@@ -1,6 +1,6 @@
-package com.backoffice.Service;
+package com.quinta.backoffice.Service;
 
-import com.backoffice.model.Utilizador;
+import com.quinta.backoffice.model.Utilizador;
 import com.fasterxml.jackson.core.type.TypeReference;
 import com.fasterxml.jackson.databind.ObjectMapper;
 

@@ -1,5 +1,4 @@
-package com.example.core.models;
-
+package com.quinta.core.models;
 import com.fasterxml.jackson.annotation.JsonIgnore;
 import jakarta.persistence.*;
 

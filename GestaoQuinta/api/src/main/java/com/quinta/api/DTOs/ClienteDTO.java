@@ -1,4 +1,4 @@
-package com.example.projetoii_dados.DTOs;
+package com.quinta.api.Dtos;
 
 public class ClienteDTO {
     private String nome;

@@ -1,7 +1,7 @@
-package com.example.projetoii_dados.services;
+package com.quinta.api.services;
 
-import com.example.core.models.Metodopagamento;
-import com.example.core.repositories.MetodoPagamentoRepository;
+import com.quinta.core.models.Metodopagamento;
+import com.quinta.core.repositories.MetodoPagamentoRepository;
 import org.springframework.stereotype.Service;
 
 import java.util.List;

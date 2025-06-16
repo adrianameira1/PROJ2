@@ -1,8 +1,8 @@
-package com.example.projetoii_dados.controllers;
+package com.quinta.api.controllers;
 
-import com.example.core.models.Funcaofuncionario;
-import com.example.projetoii_dados.DTOs.FuncaoFuncionarioDTO;
-import com.example.projetoii_dados.services.FuncaoFuncionarioService;
+import com.quinta.core.models.Funcaofuncionario;
+import com.quinta.api.DTOs.FuncaoFuncionarioDTO;
+import com.quinta.api.services.FuncaoFuncionarioService;
 import io.swagger.v3.oas.annotations.tags.Tag;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;

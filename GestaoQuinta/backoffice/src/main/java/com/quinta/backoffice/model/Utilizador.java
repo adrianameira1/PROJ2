@@ -1,4 +1,4 @@
-package com.backoffice.model;
+package com.quinta.backoffice.model;
 
 import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
 

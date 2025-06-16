@@ -1,7 +1,7 @@
-package com.backoffice.Controllers;
+package com.quinta.backoffice.Controllers;
 
-import com.backoffice.Service.ReservaService;
-import com.example.core.models.Reserva;
+import com.quinta.backoffice.Service.ReservaService;
+import com.quinta.core.models.Reserva;
 import javafx.collections.FXCollections;
 import javafx.collections.ObservableList;
 import javafx.fxml.FXML;

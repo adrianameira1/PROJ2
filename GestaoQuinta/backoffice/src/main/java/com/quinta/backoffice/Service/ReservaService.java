@@ -1,7 +1,7 @@
-package com.backoffice.Service;
+package com.quinta.backoffice.Service;
 
-import com.example.core.models.Reserva;
-import com.example.core.repositories.ReservaRepository;
+import com.quinta.core.models.Reserva;
+import com.quinta.core.repositories.ReservaRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

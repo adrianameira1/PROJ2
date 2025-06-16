@@ -1,4 +1,4 @@
-package com.example.core.models;
+package com.quinta.core.models;
 
 import java.io.Serializable;
 import java.util.Objects;

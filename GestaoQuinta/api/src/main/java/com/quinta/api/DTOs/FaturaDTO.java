@@ -1,4 +1,4 @@
-package com.example.projetoii_dados.DTOs;
+package com.quinta.api.Dtos;
 
 import java.math.BigDecimal;
 import java.time.LocalDate;

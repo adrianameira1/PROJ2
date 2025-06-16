@@ -1,7 +1,6 @@
-package com.example.projetoii_dados.services;
-
-import com.example.core.models.Fatura;
-import com.example.core.repositories.FaturaRepository;
+package com.quinta.api.services;
+import com.quinta.core.models.Fatura;
+import com.quinta.core.repositories.FaturaRepository;
 import org.springframework.stereotype.Service;
 
 import java.util.List;

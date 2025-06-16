@@ -1,8 +1,8 @@
-package com.example.projetoii_dados.controllers;
+package com.quinta.api.controllers;
 
-import com.example.core.models.Tipoutilizador;
-import com.example.projetoii_dados.DTOs.TipoUtilizadorDTO;
-import com.example.projetoii_dados.services.TipoUtilizadorService;
+import com.quinta.core.models.Tipoutilizador;
+import com.quinta.api.DTOs.TipoUtilizadorDTO;
+import com.quinta.api.services.TipoUtilizadorService;
 import io.swagger.v3.oas.annotations.tags.Tag;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;

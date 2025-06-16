@@ -1,7 +1,7 @@
-package com.example.core.repositories;
+package com.quinta.core.repositories;
 
-import com.example.core.models.Eventofuncionario;
-import com.example.core.models.EventofuncionarioId;
+import com.quinta.core.models.Eventofuncionario;
+import com.quinta.core.models.EventofuncionarioId;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 

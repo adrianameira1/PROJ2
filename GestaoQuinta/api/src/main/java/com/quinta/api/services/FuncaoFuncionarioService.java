@@ -1,7 +1,7 @@
-package com.example.projetoii_dados.services;
+package com.quinta.api.services;
 
-import com.example.core.models.Funcaofuncionario;
-import com.example.core.repositories.FuncaoFuncionarioRepository;
+import com.quinta.core.models.Funcaofuncionario;
+import com.quinta.core.repositories.FuncaoFuncionarioRepository;
 import org.springframework.stereotype.Service;
 
 import java.util.List;

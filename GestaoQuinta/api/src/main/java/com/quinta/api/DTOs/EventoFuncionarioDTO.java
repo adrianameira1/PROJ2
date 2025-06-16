@@ -1,4 +1,4 @@
-package com.example.projetoii_dados.dtos;
+package com.quinta.api.Dtos;
 
 public class EventoFuncionarioDTO {
     private Integer idEvento;

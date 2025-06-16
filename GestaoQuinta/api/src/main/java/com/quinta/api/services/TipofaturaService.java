@@ -1,7 +1,7 @@
-package com.example.projetoii_dados.services;
+package com.quinta.api.services;
 
-import com.example.core.models.Tipofatura;
-import com.example.core.repositories.TipofaturaRepository;
+import com.quinta.core.models.Tipofatura;
+import com.quinta.core.repositories.TipofaturaRepository;
 import org.springframework.stereotype.Service;
 
 import java.util.List;

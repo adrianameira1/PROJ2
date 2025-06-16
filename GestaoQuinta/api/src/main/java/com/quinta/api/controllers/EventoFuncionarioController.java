@@ -1,9 +1,9 @@
-package com.example.projetoii_dados.controllers;
+package com.quinta.api.controllers;
 
-import com.example.core.models.Eventofuncionario;
-import com.example.core.models.EventofuncionarioId;
-import com.example.projetoii_dados.dtos.EventoFuncionarioDTO;
-import com.example.projetoii_dados.services.EventoFuncionarioService;
+import com.quinta.core.models.Eventofuncionario;
+import com.quinta.core.models.EventofuncionarioId;
+import com.quinta.api.dtos.EventoFuncionarioDTO;
+import com.quinta.api.services.EventoFuncionarioService;
 import io.swagger.v3.oas.annotations.tags.Tag;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;

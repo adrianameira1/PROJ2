@@ -1,5 +1,5 @@
-package com.backoffice.Controllers;
-import com.backoffice.Controllers.LoginController;
+package com.quinta.backoffice.Controllers;
+import com.quinta.backoffice.Controllers.LoginController;
 import javafx.fxml.FXML;
 import javafx.fxml.FXMLLoader;
 import javafx.scene.Parent;

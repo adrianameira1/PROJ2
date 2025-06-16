@@ -1,4 +1,4 @@
-package com.backoffice.Controllers;
+package com.quinta.backoffice.Controllers;
 import javafx.scene.Node;
 
 import javafx.fxml.FXML;

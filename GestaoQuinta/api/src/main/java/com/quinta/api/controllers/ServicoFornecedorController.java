@@ -1,13 +1,13 @@
-package com.example.projetoii_dados.controllers;
+package com.quinta.api.controllers;
 
-import com.example.core.models.Fornecedor;
-import com.example.core.models.Servico;
-import com.example.core.models.ServicoFornecedor;
-import com.example.core.models.ServicoFornecedorId;
-import com.example.core.repositories.FornecedorRepository;
-import com.example.core.repositories.ServicoRepository;
-import com.example.projetoii_dados.DTOs.ServicoFornecedorDTO;
-import com.example.projetoii_dados.services.ServicoFornecedorService;
+import com.quinta.core.models.Fornecedor;
+import com.quinta.core.models.Servico;
+import com.quinta.core.models.ServicoFornecedor;
+import com.quinta.core.models.ServicoFornecedorId;
+import com.quinta.core.repositories.FornecedorRepository;
+import com.quinta.core.repositories.ServicoRepository;
+import com.quinta.api.DTOs.ServicoFornecedorDTO;
+import com.quinta.api.services.ServicoFornecedorService;
 import io.swagger.v3.oas.annotations.tags.Tag;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;

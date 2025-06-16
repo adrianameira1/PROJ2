@@ -1,12 +1,12 @@
-package com.example.projetoii_dados.controllers;
+package com.quinta.api.controllers;
 
-import com.example.core.models.Evento;
-import com.example.core.models.Reserva;
-import com.example.core.models.Tipoevento;
-import com.example.core.repositories.ReservaRepository;
-import com.example.core.repositories.TipoEventoRepository;
-import com.example.projetoii_dados.DTOs.EventoDTO;
-import com.example.projetoii_dados.services.EventoService;
+import com.quinta.core.models.Evento;
+import com.quinta.core.models.Reserva;
+import com.quinta.core.models.Tipoevento;
+import com.quinta.core.repositories.ReservaRepository;
+import com.quinta.core.repositories.TipoEventoRepository;
+import com.quinta.api.DTOs.EventoDTO;
+import com.quinta.api.services.EventoService;
 import io.swagger.v3.oas.annotations.tags.Tag;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;

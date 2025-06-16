@@ -1,6 +1,6 @@
-package com.example.core.repositories;
+package com.quinta.core.repositories;
 
-import com.example.core.models.Funcionariosfixo;
+import com.quinta.core.models.Funcionariosfixo;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 

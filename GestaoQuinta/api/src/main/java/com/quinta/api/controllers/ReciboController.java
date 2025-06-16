@@ -1,12 +1,12 @@
-package com.example.projetoii_dados.controllers;
+package com.quinta.api.controllers;
 
-import com.example.core.models.Evento;
-import com.example.core.models.Metodopagamento;
-import com.example.core.models.Recibo;
-import com.example.core.repositories.EventoRepository;
-import com.example.core.repositories.MetodoPagamentoRepository;
-import com.example.projetoii_dados.DTOs.ReciboDTO;
-import com.example.projetoii_dados.services.ReciboService;
+import com.quinta.core.models.Evento;
+import com.quinta.core.models.Metodopagamento;
+import com.quinta.core.models.Recibo;
+import com.quinta.core.repositories.EventoRepository;
+import com.quinta.core.repositories.MetodoPagamentoRepository;
+import com.quinta.api.DTOs.ReciboDTO;
+import com.quinta.api.services.ReciboService;
 import io.swagger.v3.oas.annotations.tags.Tag;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;

@@ -1,8 +1,8 @@
-package com.example.projetoii_dados.controllers;
+package com.quinta.api.controllers;
 
-import com.example.core.models.Tipofatura;
-import com.example.projetoii_dados.DTOs.TipoFaturaDTO;
-import com.example.projetoii_dados.services.TipofaturaService;
+import com.quinta.core.models.Tipofatura;
+import com.quinta.api.DTOs.TipoFaturaDTO;
+import com.quinta.api.services.TipofaturaService;
 import io.swagger.v3.oas.annotations.tags.Tag;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;

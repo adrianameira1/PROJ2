@@ -1,8 +1,8 @@
-package com.example.projetoii_dados.controllers;
+package com.quinta.api.controllers;
 
-import com.example.core.models.Metodopagamento;
-import com.example.projetoii_dados.DTOs.MetodoPagamentoDTO;
-import com.example.projetoii_dados.services.MetodoPagamentoService;
+import com.quinta.core.models.Metodopagamento;
+import com.quinta.api.DTOs.MetodoPagamentoDTO;
+import com.quinta.api.services.MetodoPagamentoService;
 import io.swagger.v3.oas.annotations.tags.Tag;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;

@@ -1,4 +1,4 @@
-package com.backoffice.model;
+package com.quinta.backoffice.model;
 
 import java.time.LocalDate;
 

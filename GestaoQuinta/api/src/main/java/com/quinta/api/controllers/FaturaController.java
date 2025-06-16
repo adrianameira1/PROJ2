@@ -1,12 +1,12 @@
-package com.example.projetoii_dados.controllers;
+package com.quinta.api.controllers;
 
-import com.example.core.models.Fatura;
-import com.example.core.models.Evento;
-import com.example.core.models.Tipofatura;
-import com.example.core.repositories.EventoRepository;
-import com.example.core.repositories.TipofaturaRepository;
-import com.example.projetoii_dados.DTOs.FaturaDTO;
-import com.example.projetoii_dados.services.FaturaService;
+import com.quinta.core.models.Fatura;
+import com.quinta.core.models.Evento;
+import com.quinta.core.models.Tipofatura;
+import com.quinta.core.repositories.EventoRepository;
+import com.quinta.core.repositories.TipofaturaRepository;
+import com.quinta.api.DTOs.FaturaDTO;
+import com.quinta.api.services.FaturaService;
 import io.swagger.v3.oas.annotations.tags.Tag;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;

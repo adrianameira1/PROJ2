@@ -1,7 +1,7 @@
-package com.example.projetoii_dados.services;
+package com.quinta.api.services;
 
-import com.example.core.models.Tiposervico;
-import com.example.core.repositories.TipoServicoRepository;
+import com.quinta.core.models.Tiposervico;
+import com.quinta.core.repositories.TipoServicoRepository;
 import org.springframework.stereotype.Service;
 
 import java.util.List;
